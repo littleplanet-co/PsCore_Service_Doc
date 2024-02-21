@@ -3,7 +3,7 @@ window.onload = function() {
 
   // the following lines will be replaced by docker/configurator, when it runs in a docker-container
   window.ui = SwaggerUIBundle({
-    url: "https://raw.githubusercontent.com/littleplanet-co/PsCore-Nutrilog-API-Doc/main/LogMe-nutrilog-Service.json",
+    url: "https://raw.githubusercontent.com/littleplanet-co/PsCore_Service_Doc/main/LogMe-nutrilog-Service.json",
     dom_id: '#swagger-ui',
     deepLinking: true,
     presets: [
